@@ -1,4 +1,4 @@
-package main
+package txns
 
 import (
 	"fmt"
@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-func main() {
+func GenerateRandomTxns() {
 	rand.Seed(time.Now().UnixNano())
 
 	// Create a new csv file
