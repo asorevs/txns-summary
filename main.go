@@ -1,8 +1,9 @@
 package main
 
-import "github.com/asorevs/txnsummary/txns"
+import "github.com/asorevs/txnsummary/custommail"
 
 func main() {
 	// txns.GenerateRandomTxns()
-	txns.AnalyseTxns()
+	// txns.AnalyseTxns()
+	custommail.SendCustomMail()
 }

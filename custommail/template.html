@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            text-align: center;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin: 0 auto;
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+
+        h3 {
+            text-align: center;
+        }
+
+        td.amount {
+            text-align: right;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Hi {{.Name}}!</h2>
+    <p>{{.Message}}</p>
+
+    <p>Friendly regards, <br> The Stori Team</p>
+
+    <img src="cid:{{.ImageID}}" alt="Logo" title="Logo" style="display:block; margin-top: 20px;" width="200" />
+
+    <h3>Transactions summary</h3>
+
+    <table style="margin: 0 auto;">
+        <tr>
+            <th>Total Balance</th>
+            <th>Average Credit Amount</th>
+            <th>Average Debit Amount</th>
+        </tr>
+        <tr>
+            <td class="amount">${{.TotalBalance}}</td>
+            <td class="amount">${{.AverageCreditAmount}}</td>
+            <td class="amount">${{.AverageDebitAmount}}</td>
+        </tr>
+    </table>
+    <br /><br />
+    <h3>Number of transactions by month</h3>
+
+    <table style="margin: 0 auto;">
+        <tr>
+            <th>Month</th>
+            <th>Quantity</th>
+        </tr>
+        {{range .TransactionData}}
+        <tr>
+            <td>{{.Month}}</td>
+            <td class="amount">{{.Count}}</td>
+        </tr>
+        {{end}}
+    </table>
+
+</body>
+
+</html>
