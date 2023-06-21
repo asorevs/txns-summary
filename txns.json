@@ -1,0 +1,5872 @@
+{
+  "Transactions": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "0" },
+          "Date": { "S": "06/15/2023" },
+          "Transaction": { "N": "-14.64" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "1" },
+          "Date": { "S": "06/15/2023" },
+          "Transaction": { "N": "-87.91" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "2" },
+          "Date": { "S": "06/15/2023" },
+          "Transaction": { "N": "-56.40" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "3" },
+          "Date": { "S": "06/15/2023" },
+          "Transaction": { "N": "-88.29" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "4" },
+          "Date": { "S": "06/15/2023" },
+          "Transaction": { "N": "-24.25" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "5" },
+          "Date": { "S": "06/15/2023" },
+          "Transaction": { "N": "25.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "6" },
+          "Date": { "S": "06/15/2023" },
+          "Transaction": { "N": "40.38" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "7" },
+          "Date": { "S": "06/14/2023" },
+          "Transaction": { "N": "-80.66" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "8" },
+          "Date": { "S": "06/14/2023" },
+          "Transaction": { "N": "75.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "9" },
+          "Date": { "S": "06/14/2023" },
+          "Transaction": { "N": "78.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "10" },
+          "Date": { "S": "06/14/2023" },
+          "Transaction": { "N": "66.76" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "11" },
+          "Date": { "S": "06/14/2023" },
+          "Transaction": { "N": "39.93" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "12" },
+          "Date": { "S": "06/14/2023" },
+          "Transaction": { "N": "40.66" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "13" },
+          "Date": { "S": "06/14/2023" },
+          "Transaction": { "N": "73.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "14" },
+          "Date": { "S": "06/13/2023" },
+          "Transaction": { "N": "18.82" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "15" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "74.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "16" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "40.48" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "17" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "66.69" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "18" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "-93.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "19" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "-43.66" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "20" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "-58.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "21" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "-45.28" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "22" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "54.92" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "23" },
+          "Date": { "S": "06/12/2023" },
+          "Transaction": { "N": "-87.48" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "24" },
+          "Date": { "S": "06/11/2023" },
+          "Transaction": { "N": "12.03" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "25" },
+          "Date": { "S": "06/11/2023" },
+          "Transaction": { "N": "-65.69" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "26" },
+          "Date": { "S": "06/11/2023" },
+          "Transaction": { "N": "10.84" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "27" },
+          "Date": { "S": "06/11/2023" },
+          "Transaction": { "N": "43.17" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "28" },
+          "Date": { "S": "06/11/2023" },
+          "Transaction": { "N": "-96.74" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "29" },
+          "Date": { "S": "06/11/2023" },
+          "Transaction": { "N": "96.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "30" },
+          "Date": { "S": "06/11/2023" },
+          "Transaction": { "N": "71.18" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "31" },
+          "Date": { "S": "06/11/2023" },
+          "Transaction": { "N": "55.64" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "32" },
+          "Date": { "S": "06/10/2023" },
+          "Transaction": { "N": "30.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "33" },
+          "Date": { "S": "06/10/2023" },
+          "Transaction": { "N": "-25.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "34" },
+          "Date": { "S": "06/10/2023" },
+          "Transaction": { "N": "72.32" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "35" },
+          "Date": { "S": "06/08/2023" },
+          "Transaction": { "N": "-61.04" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "36" },
+          "Date": { "S": "06/08/2023" },
+          "Transaction": { "N": "-0.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "37" },
+          "Date": { "S": "06/08/2023" },
+          "Transaction": { "N": "-49.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "38" },
+          "Date": { "S": "06/08/2023" },
+          "Transaction": { "N": "54.75" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "39" },
+          "Date": { "S": "06/08/2023" },
+          "Transaction": { "N": "-74.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "40" },
+          "Date": { "S": "06/08/2023" },
+          "Transaction": { "N": "41.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "41" },
+          "Date": { "S": "06/08/2023" },
+          "Transaction": { "N": "44.66" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "42" },
+          "Date": { "S": "06/07/2023" },
+          "Transaction": { "N": "97.29" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "43" },
+          "Date": { "S": "06/07/2023" },
+          "Transaction": { "N": "-12.33" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "44" },
+          "Date": { "S": "06/07/2023" },
+          "Transaction": { "N": "58.21" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "45" },
+          "Date": { "S": "06/07/2023" },
+          "Transaction": { "N": "-30.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "46" },
+          "Date": { "S": "06/06/2023" },
+          "Transaction": { "N": "87.92" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "47" },
+          "Date": { "S": "06/06/2023" },
+          "Transaction": { "N": "8.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "48" },
+          "Date": { "S": "06/06/2023" },
+          "Transaction": { "N": "97.87" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "49" },
+          "Date": { "S": "06/05/2023" },
+          "Transaction": { "N": "7.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "50" },
+          "Date": { "S": "06/05/2023" },
+          "Transaction": { "N": "3.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "51" },
+          "Date": { "S": "06/05/2023" },
+          "Transaction": { "N": "37.07" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "52" },
+          "Date": { "S": "06/05/2023" },
+          "Transaction": { "N": "32.96" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "53" },
+          "Date": { "S": "06/05/2023" },
+          "Transaction": { "N": "1.62" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "54" },
+          "Date": { "S": "06/05/2023" },
+          "Transaction": { "N": "-79.68" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "55" },
+          "Date": { "S": "06/05/2023" },
+          "Transaction": { "N": "79.77" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "56" },
+          "Date": { "S": "06/03/2023" },
+          "Transaction": { "N": "13.55" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "57" },
+          "Date": { "S": "06/03/2023" },
+          "Transaction": { "N": "15.27" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "58" },
+          "Date": { "S": "06/03/2023" },
+          "Transaction": { "N": "-96.93" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "59" },
+          "Date": { "S": "06/02/2023" },
+          "Transaction": { "N": "-42.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "60" },
+          "Date": { "S": "06/02/2023" },
+          "Transaction": { "N": "34.97" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "61" },
+          "Date": { "S": "06/01/2023" },
+          "Transaction": { "N": "55.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "62" },
+          "Date": { "S": "06/01/2023" },
+          "Transaction": { "N": "71.91" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "63" },
+          "Date": { "S": "05/31/2023" },
+          "Transaction": { "N": "71.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "64" },
+          "Date": { "S": "05/31/2023" },
+          "Transaction": { "N": "54.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "65" },
+          "Date": { "S": "05/31/2023" },
+          "Transaction": { "N": "-2.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "66" },
+          "Date": { "S": "05/31/2023" },
+          "Transaction": { "N": "90.10" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "67" },
+          "Date": { "S": "05/31/2023" },
+          "Transaction": { "N": "-2.49" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "68" },
+          "Date": { "S": "05/31/2023" },
+          "Transaction": { "N": "-22.05" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "69" },
+          "Date": { "S": "05/31/2023" },
+          "Transaction": { "N": "44.90" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "70" },
+          "Date": { "S": "05/30/2023" },
+          "Transaction": { "N": "48.49" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "71" },
+          "Date": { "S": "05/30/2023" },
+          "Transaction": { "N": "-39.74" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "72" },
+          "Date": { "S": "05/30/2023" },
+          "Transaction": { "N": "82.96" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "73" },
+          "Date": { "S": "05/30/2023" },
+          "Transaction": { "N": "-97.61" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "74" },
+          "Date": { "S": "05/30/2023" },
+          "Transaction": { "N": "-16.86" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "75" },
+          "Date": { "S": "05/28/2023" },
+          "Transaction": { "N": "-54.09" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "76" },
+          "Date": { "S": "05/28/2023" },
+          "Transaction": { "N": "71.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "77" },
+          "Date": { "S": "05/28/2023" },
+          "Transaction": { "N": "-91.86" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "78" },
+          "Date": { "S": "05/28/2023" },
+          "Transaction": { "N": "-83.45" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "79" },
+          "Date": { "S": "05/28/2023" },
+          "Transaction": { "N": "21.46" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "80" },
+          "Date": { "S": "05/28/2023" },
+          "Transaction": { "N": "4.11" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "81" },
+          "Date": { "S": "05/28/2023" },
+          "Transaction": { "N": "-44.08" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "82" },
+          "Date": { "S": "05/28/2023" },
+          "Transaction": { "N": "-20.40" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "83" },
+          "Date": { "S": "05/27/2023" },
+          "Transaction": { "N": "33.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "84" },
+          "Date": { "S": "05/27/2023" },
+          "Transaction": { "N": "86.39" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "85" },
+          "Date": { "S": "05/27/2023" },
+          "Transaction": { "N": "-69.98" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "86" },
+          "Date": { "S": "05/27/2023" },
+          "Transaction": { "N": "-21.64" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "87" },
+          "Date": { "S": "05/27/2023" },
+          "Transaction": { "N": "7.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "88" },
+          "Date": { "S": "05/27/2023" },
+          "Transaction": { "N": "-23.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "89" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "34.68" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "90" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "-57.40" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "91" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "5.66" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "92" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "65.11" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "93" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "-71.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "94" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "70.87" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "95" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "34.45" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "96" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "4.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "97" },
+          "Date": { "S": "05/26/2023" },
+          "Transaction": { "N": "-5.62" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "98" },
+          "Date": { "S": "05/25/2023" },
+          "Transaction": { "N": "-16.88" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "99" },
+          "Date": { "S": "05/25/2023" },
+          "Transaction": { "N": "-90.04" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "100" },
+          "Date": { "S": "05/25/2023" },
+          "Transaction": { "N": "23.88" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "101" },
+          "Date": { "S": "05/24/2023" },
+          "Transaction": { "N": "0.15" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "102" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "-83.76" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "103" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "-20.72" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "104" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "-11.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "105" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "36.37" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "106" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "28.40" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "107" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "-76.94" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "108" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "-10.43" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "109" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "20.86" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "110" },
+          "Date": { "S": "05/23/2023" },
+          "Transaction": { "N": "-0.86" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "111" },
+          "Date": { "S": "05/22/2023" },
+          "Transaction": { "N": "-15.72" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "112" },
+          "Date": { "S": "05/22/2023" },
+          "Transaction": { "N": "60.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "113" },
+          "Date": { "S": "05/21/2023" },
+          "Transaction": { "N": "-63.80" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "114" },
+          "Date": { "S": "05/21/2023" },
+          "Transaction": { "N": "-34.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "115" },
+          "Date": { "S": "05/21/2023" },
+          "Transaction": { "N": "45.03" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "116" },
+          "Date": { "S": "05/21/2023" },
+          "Transaction": { "N": "46.94" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "117" },
+          "Date": { "S": "05/21/2023" },
+          "Transaction": { "N": "-14.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "118" },
+          "Date": { "S": "05/21/2023" },
+          "Transaction": { "N": "41.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "119" },
+          "Date": { "S": "05/21/2023" },
+          "Transaction": { "N": "78.97" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "120" },
+          "Date": { "S": "05/21/2023" },
+          "Transaction": { "N": "-68.86" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "121" },
+          "Date": { "S": "05/20/2023" },
+          "Transaction": { "N": "-2.84" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "122" },
+          "Date": { "S": "05/20/2023" },
+          "Transaction": { "N": "46.43" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "123" },
+          "Date": { "S": "05/20/2023" },
+          "Transaction": { "N": "80.20" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "124" },
+          "Date": { "S": "05/20/2023" },
+          "Transaction": { "N": "42.29" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "125" },
+          "Date": { "S": "05/19/2023" },
+          "Transaction": { "N": "-37.64" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "126" },
+          "Date": { "S": "05/18/2023" },
+          "Transaction": { "N": "25.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "127" },
+          "Date": { "S": "05/16/2023" },
+          "Transaction": { "N": "50.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "128" },
+          "Date": { "S": "05/16/2023" },
+          "Transaction": { "N": "-18.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "129" },
+          "Date": { "S": "05/15/2023" },
+          "Transaction": { "N": "-4.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "130" },
+          "Date": { "S": "05/14/2023" },
+          "Transaction": { "N": "-99.89" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "131" },
+          "Date": { "S": "05/14/2023" },
+          "Transaction": { "N": "80.89" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "132" },
+          "Date": { "S": "05/14/2023" },
+          "Transaction": { "N": "-89.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "133" },
+          "Date": { "S": "05/14/2023" },
+          "Transaction": { "N": "54.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "134" },
+          "Date": { "S": "05/14/2023" },
+          "Transaction": { "N": "-27.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "135" },
+          "Date": { "S": "05/14/2023" },
+          "Transaction": { "N": "2.76" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "136" },
+          "Date": { "S": "05/14/2023" },
+          "Transaction": { "N": "52.41" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "137" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "48.33" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "138" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "-76.32" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "139" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "-70.66" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "140" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "-15.49" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "141" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "-89.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "142" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "51.35" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "143" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "-45.95" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "144" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "-18.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "145" },
+          "Date": { "S": "05/13/2023" },
+          "Transaction": { "N": "35.25" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "146" },
+          "Date": { "S": "05/12/2023" },
+          "Transaction": { "N": "-88.03" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "147" },
+          "Date": { "S": "05/12/2023" },
+          "Transaction": { "N": "82.33" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "148" },
+          "Date": { "S": "05/12/2023" },
+          "Transaction": { "N": "80.08" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "149" },
+          "Date": { "S": "05/12/2023" },
+          "Transaction": { "N": "30.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "150" },
+          "Date": { "S": "05/11/2023" },
+          "Transaction": { "N": "53.71" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "151" },
+          "Date": { "S": "05/11/2023" },
+          "Transaction": { "N": "-3.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "152" },
+          "Date": { "S": "05/11/2023" },
+          "Transaction": { "N": "-95.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "153" },
+          "Date": { "S": "05/11/2023" },
+          "Transaction": { "N": "13.85" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "154" },
+          "Date": { "S": "05/11/2023" },
+          "Transaction": { "N": "73.53" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "155" },
+          "Date": { "S": "05/11/2023" },
+          "Transaction": { "N": "10.05" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "156" },
+          "Date": { "S": "05/11/2023" },
+          "Transaction": { "N": "-69.40" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "157" },
+          "Date": { "S": "05/10/2023" },
+          "Transaction": { "N": "-88.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "158" },
+          "Date": { "S": "05/10/2023" },
+          "Transaction": { "N": "-78.90" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "159" },
+          "Date": { "S": "05/10/2023" },
+          "Transaction": { "N": "94.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "160" },
+          "Date": { "S": "05/10/2023" },
+          "Transaction": { "N": "54.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "161" },
+          "Date": { "S": "05/10/2023" },
+          "Transaction": { "N": "20.41" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "162" },
+          "Date": { "S": "05/10/2023" },
+          "Transaction": { "N": "70.71" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "163" },
+          "Date": { "S": "05/10/2023" },
+          "Transaction": { "N": "1.89" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "164" },
+          "Date": { "S": "05/10/2023" },
+          "Transaction": { "N": "-4.02" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "165" },
+          "Date": { "S": "05/09/2023" },
+          "Transaction": { "N": "93.85" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "166" },
+          "Date": { "S": "05/08/2023" },
+          "Transaction": { "N": "-28.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "167" },
+          "Date": { "S": "05/08/2023" },
+          "Transaction": { "N": "-41.55" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "168" },
+          "Date": { "S": "05/07/2023" },
+          "Transaction": { "N": "41.20" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "169" },
+          "Date": { "S": "05/07/2023" },
+          "Transaction": { "N": "-47.05" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "170" },
+          "Date": { "S": "05/07/2023" },
+          "Transaction": { "N": "-20.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "171" },
+          "Date": { "S": "05/07/2023" },
+          "Transaction": { "N": "-9.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "172" },
+          "Date": { "S": "05/07/2023" },
+          "Transaction": { "N": "55.99" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "173" },
+          "Date": { "S": "05/07/2023" },
+          "Transaction": { "N": "-26.56" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "174" },
+          "Date": { "S": "05/07/2023" },
+          "Transaction": { "N": "-84.72" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "175" },
+          "Date": { "S": "05/07/2023" },
+          "Transaction": { "N": "-81.10" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "176" },
+          "Date": { "S": "05/04/2023" },
+          "Transaction": { "N": "-60.62" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "177" },
+          "Date": { "S": "05/04/2023" },
+          "Transaction": { "N": "43.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "178" },
+          "Date": { "S": "05/04/2023" },
+          "Transaction": { "N": "-18.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "179" },
+          "Date": { "S": "05/04/2023" },
+          "Transaction": { "N": "-8.05" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "180" },
+          "Date": { "S": "05/04/2023" },
+          "Transaction": { "N": "-48.05" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "181" },
+          "Date": { "S": "05/04/2023" },
+          "Transaction": { "N": "83.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "182" },
+          "Date": { "S": "05/04/2023" },
+          "Transaction": { "N": "-90.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "183" },
+          "Date": { "S": "05/04/2023" },
+          "Transaction": { "N": "-47.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "184" },
+          "Date": { "S": "05/03/2023" },
+          "Transaction": { "N": "-94.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "185" },
+          "Date": { "S": "05/03/2023" },
+          "Transaction": { "N": "-54.41" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "186" },
+          "Date": { "S": "05/03/2023" },
+          "Transaction": { "N": "41.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "187" },
+          "Date": { "S": "05/03/2023" },
+          "Transaction": { "N": "-7.89" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "188" },
+          "Date": { "S": "05/03/2023" },
+          "Transaction": { "N": "29.48" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "189" },
+          "Date": { "S": "05/02/2023" },
+          "Transaction": { "N": "98.51" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "190" },
+          "Date": { "S": "05/02/2023" },
+          "Transaction": { "N": "-36.45" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "191" },
+          "Date": { "S": "05/02/2023" },
+          "Transaction": { "N": "16.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "192" },
+          "Date": { "S": "05/02/2023" },
+          "Transaction": { "N": "73.40" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "193" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "-33.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "194" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "39.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "195" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "-74.09" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "196" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "63.93" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "197" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "-53.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "198" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "59.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "199" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "51.47" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "200" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "-29.57" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "201" },
+          "Date": { "S": "05/01/2023" },
+          "Transaction": { "N": "46.61" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "202" },
+          "Date": { "S": "04/29/2023" },
+          "Transaction": { "N": "-39.35" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "203" },
+          "Date": { "S": "04/28/2023" },
+          "Transaction": { "N": "-32.75" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "204" },
+          "Date": { "S": "04/28/2023" },
+          "Transaction": { "N": "-73.39" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "205" },
+          "Date": { "S": "04/28/2023" },
+          "Transaction": { "N": "-44.87" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "206" },
+          "Date": { "S": "04/28/2023" },
+          "Transaction": { "N": "-51.32" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "207" },
+          "Date": { "S": "04/28/2023" },
+          "Transaction": { "N": "-57.17" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "208" },
+          "Date": { "S": "04/28/2023" },
+          "Transaction": { "N": "3.20" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "209" },
+          "Date": { "S": "04/28/2023" },
+          "Transaction": { "N": "30.72" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "210" },
+          "Date": { "S": "04/27/2023" },
+          "Transaction": { "N": "-98.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "211" },
+          "Date": { "S": "04/27/2023" },
+          "Transaction": { "N": "76.54" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "212" },
+          "Date": { "S": "04/27/2023" },
+          "Transaction": { "N": "-75.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "213" },
+          "Date": { "S": "04/27/2023" },
+          "Transaction": { "N": "17.30" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "214" },
+          "Date": { "S": "04/24/2023" },
+          "Transaction": { "N": "-60.02" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "215" },
+          "Date": { "S": "04/24/2023" },
+          "Transaction": { "N": "48.62" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "216" },
+          "Date": { "S": "04/24/2023" },
+          "Transaction": { "N": "98.55" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "217" },
+          "Date": { "S": "04/24/2023" },
+          "Transaction": { "N": "17.08" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "218" },
+          "Date": { "S": "04/24/2023" },
+          "Transaction": { "N": "88.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "219" },
+          "Date": { "S": "04/24/2023" },
+          "Transaction": { "N": "-11.90" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "220" },
+          "Date": { "S": "04/24/2023" },
+          "Transaction": { "N": "24.78" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "221" },
+          "Date": { "S": "04/24/2023" },
+          "Transaction": { "N": "-25.92" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "222" },
+          "Date": { "S": "04/23/2023" },
+          "Transaction": { "N": "-89.83" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "223" },
+          "Date": { "S": "04/23/2023" },
+          "Transaction": { "N": "62.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "224" },
+          "Date": { "S": "04/23/2023" },
+          "Transaction": { "N": "-16.50" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "225" },
+          "Date": { "S": "04/23/2023" },
+          "Transaction": { "N": "11.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "226" },
+          "Date": { "S": "04/23/2023" },
+          "Transaction": { "N": "97.57" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "227" },
+          "Date": { "S": "04/23/2023" },
+          "Transaction": { "N": "82.32" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "228" },
+          "Date": { "S": "04/23/2023" },
+          "Transaction": { "N": "-75.87" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "229" },
+          "Date": { "S": "04/23/2023" },
+          "Transaction": { "N": "-82.53" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "230" },
+          "Date": { "S": "04/22/2023" },
+          "Transaction": { "N": "70.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "231" },
+          "Date": { "S": "04/22/2023" },
+          "Transaction": { "N": "-7.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "232" },
+          "Date": { "S": "04/22/2023" },
+          "Transaction": { "N": "46.45" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "233" },
+          "Date": { "S": "04/22/2023" },
+          "Transaction": { "N": "-12.69" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "234" },
+          "Date": { "S": "04/22/2023" },
+          "Transaction": { "N": "33.96" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "235" },
+          "Date": { "S": "04/22/2023" },
+          "Transaction": { "N": "94.37" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "236" },
+          "Date": { "S": "04/20/2023" },
+          "Transaction": { "N": "94.81" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "237" },
+          "Date": { "S": "04/20/2023" },
+          "Transaction": { "N": "-48.48" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "238" },
+          "Date": { "S": "04/20/2023" },
+          "Transaction": { "N": "2.57" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "239" },
+          "Date": { "S": "04/20/2023" },
+          "Transaction": { "N": "-69.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "240" },
+          "Date": { "S": "04/20/2023" },
+          "Transaction": { "N": "96.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "241" },
+          "Date": { "S": "04/20/2023" },
+          "Transaction": { "N": "-78.50" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "242" },
+          "Date": { "S": "04/20/2023" },
+          "Transaction": { "N": "53.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "243" },
+          "Date": { "S": "04/19/2023" },
+          "Transaction": { "N": "-97.76" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "244" },
+          "Date": { "S": "04/19/2023" },
+          "Transaction": { "N": "39.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "245" },
+          "Date": { "S": "04/18/2023" },
+          "Transaction": { "N": "-25.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "246" },
+          "Date": { "S": "04/18/2023" },
+          "Transaction": { "N": "82.63" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "247" },
+          "Date": { "S": "04/18/2023" },
+          "Transaction": { "N": "-64.18" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "248" },
+          "Date": { "S": "04/18/2023" },
+          "Transaction": { "N": "49.09" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "249" },
+          "Date": { "S": "04/17/2023" },
+          "Transaction": { "N": "50.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "250" },
+          "Date": { "S": "04/17/2023" },
+          "Transaction": { "N": "86.41" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "251" },
+          "Date": { "S": "04/16/2023" },
+          "Transaction": { "N": "-46.84" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "252" },
+          "Date": { "S": "04/16/2023" },
+          "Transaction": { "N": "-3.25" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "253" },
+          "Date": { "S": "04/16/2023" },
+          "Transaction": { "N": "44.10" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "254" },
+          "Date": { "S": "04/16/2023" },
+          "Transaction": { "N": "-89.97" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "255" },
+          "Date": { "S": "04/16/2023" },
+          "Transaction": { "N": "-22.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "256" },
+          "Date": { "S": "04/16/2023" },
+          "Transaction": { "N": "-46.25" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "257" },
+          "Date": { "S": "04/16/2023" },
+          "Transaction": { "N": "-13.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "258" },
+          "Date": { "S": "04/16/2023" },
+          "Transaction": { "N": "66.58" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "259" },
+          "Date": { "S": "04/15/2023" },
+          "Transaction": { "N": "77.30" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "260" },
+          "Date": { "S": "04/15/2023" },
+          "Transaction": { "N": "-38.03" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "261" },
+          "Date": { "S": "04/15/2023" },
+          "Transaction": { "N": "-1.68" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "262" },
+          "Date": { "S": "04/14/2023" },
+          "Transaction": { "N": "73.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "263" },
+          "Date": { "S": "04/14/2023" },
+          "Transaction": { "N": "38.53" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "264" },
+          "Date": { "S": "04/14/2023" },
+          "Transaction": { "N": "90.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "265" },
+          "Date": { "S": "04/14/2023" },
+          "Transaction": { "N": "-54.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "266" },
+          "Date": { "S": "04/14/2023" },
+          "Transaction": { "N": "21.21" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "267" },
+          "Date": { "S": "04/14/2023" },
+          "Transaction": { "N": "-54.90" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "268" },
+          "Date": { "S": "04/14/2023" },
+          "Transaction": { "N": "-41.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "269" },
+          "Date": { "S": "04/12/2023" },
+          "Transaction": { "N": "56.54" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "270" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "17.74" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "271" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "-24.48" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "272" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "-41.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "273" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "94.62" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "274" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "40.42" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "275" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "-3.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "276" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "21.17" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "277" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "75.56" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "278" },
+          "Date": { "S": "04/10/2023" },
+          "Transaction": { "N": "-63.53" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "279" },
+          "Date": { "S": "04/09/2023" },
+          "Transaction": { "N": "76.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "280" },
+          "Date": { "S": "04/09/2023" },
+          "Transaction": { "N": "-29.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "281" },
+          "Date": { "S": "04/09/2023" },
+          "Transaction": { "N": "-23.55" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "282" },
+          "Date": { "S": "04/09/2023" },
+          "Transaction": { "N": "-90.81" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "283" },
+          "Date": { "S": "04/07/2023" },
+          "Transaction": { "N": "-60.32" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "284" },
+          "Date": { "S": "04/07/2023" },
+          "Transaction": { "N": "-81.78" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "285" },
+          "Date": { "S": "04/07/2023" },
+          "Transaction": { "N": "0.37" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "286" },
+          "Date": { "S": "04/07/2023" },
+          "Transaction": { "N": "-89.95" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "287" },
+          "Date": { "S": "04/06/2023" },
+          "Transaction": { "N": "-76.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "288" },
+          "Date": { "S": "04/06/2023" },
+          "Transaction": { "N": "-65.90" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "289" },
+          "Date": { "S": "04/06/2023" },
+          "Transaction": { "N": "77.15" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "290" },
+          "Date": { "S": "04/05/2023" },
+          "Transaction": { "N": "97.56" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "291" },
+          "Date": { "S": "04/05/2023" },
+          "Transaction": { "N": "-57.25" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "292" },
+          "Date": { "S": "04/05/2023" },
+          "Transaction": { "N": "99.95" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "293" },
+          "Date": { "S": "04/05/2023" },
+          "Transaction": { "N": "2.02" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "294" },
+          "Date": { "S": "04/05/2023" },
+          "Transaction": { "N": "-45.86" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "295" },
+          "Date": { "S": "04/05/2023" },
+          "Transaction": { "N": "48.66" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "296" },
+          "Date": { "S": "04/04/2023" },
+          "Transaction": { "N": "46.89" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "297" },
+          "Date": { "S": "04/04/2023" },
+          "Transaction": { "N": "49.47" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "298" },
+          "Date": { "S": "04/04/2023" },
+          "Transaction": { "N": "25.93" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "299" },
+          "Date": { "S": "04/03/2023" },
+          "Transaction": { "N": "5.68" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "300" },
+          "Date": { "S": "04/03/2023" },
+          "Transaction": { "N": "34.18" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "301" },
+          "Date": { "S": "04/02/2023" },
+          "Transaction": { "N": "-51.86" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "302" },
+          "Date": { "S": "04/02/2023" },
+          "Transaction": { "N": "-89.29" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "303" },
+          "Date": { "S": "04/02/2023" },
+          "Transaction": { "N": "17.97" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "304" },
+          "Date": { "S": "04/02/2023" },
+          "Transaction": { "N": "77.00" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "305" },
+          "Date": { "S": "04/02/2023" },
+          "Transaction": { "N": "-99.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "306" },
+          "Date": { "S": "04/02/2023" },
+          "Transaction": { "N": "-38.78" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "307" },
+          "Date": { "S": "04/02/2023" },
+          "Transaction": { "N": "89.30" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "308" },
+          "Date": { "S": "04/02/2023" },
+          "Transaction": { "N": "-87.23" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "309" },
+          "Date": { "S": "04/01/2023" },
+          "Transaction": { "N": "-6.23" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "310" },
+          "Date": { "S": "04/01/2023" },
+          "Transaction": { "N": "-30.35" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "311" },
+          "Date": { "S": "04/01/2023" },
+          "Transaction": { "N": "54.94" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "312" },
+          "Date": { "S": "04/01/2023" },
+          "Transaction": { "N": "-32.43" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "313" },
+          "Date": { "S": "04/01/2023" },
+          "Transaction": { "N": "19.11" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "314" },
+          "Date": { "S": "04/01/2023" },
+          "Transaction": { "N": "-83.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "315" },
+          "Date": { "S": "04/01/2023" },
+          "Transaction": { "N": "79.46" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "316" },
+          "Date": { "S": "03/31/2023" },
+          "Transaction": { "N": "96.28" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "317" },
+          "Date": { "S": "03/31/2023" },
+          "Transaction": { "N": "90.39" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "318" },
+          "Date": { "S": "03/31/2023" },
+          "Transaction": { "N": "-0.65" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "319" },
+          "Date": { "S": "03/31/2023" },
+          "Transaction": { "N": "-71.51" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "320" },
+          "Date": { "S": "03/31/2023" },
+          "Transaction": { "N": "13.05" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "321" },
+          "Date": { "S": "03/31/2023" },
+          "Transaction": { "N": "73.87" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "322" },
+          "Date": { "S": "03/31/2023" },
+          "Transaction": { "N": "26.47" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "323" },
+          "Date": { "S": "03/31/2023" },
+          "Transaction": { "N": "-92.75" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "324" },
+          "Date": { "S": "03/30/2023" },
+          "Transaction": { "N": "72.23" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "325" },
+          "Date": { "S": "03/30/2023" },
+          "Transaction": { "N": "-68.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "326" },
+          "Date": { "S": "03/30/2023" },
+          "Transaction": { "N": "-74.04" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "327" },
+          "Date": { "S": "03/30/2023" },
+          "Transaction": { "N": "98.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "328" },
+          "Date": { "S": "03/30/2023" },
+          "Transaction": { "N": "-67.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "329" },
+          "Date": { "S": "03/29/2023" },
+          "Transaction": { "N": "57.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "330" },
+          "Date": { "S": "03/29/2023" },
+          "Transaction": { "N": "16.06" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "331" },
+          "Date": { "S": "03/29/2023" },
+          "Transaction": { "N": "11.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "332" },
+          "Date": { "S": "03/29/2023" },
+          "Transaction": { "N": "50.64" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "333" },
+          "Date": { "S": "03/29/2023" },
+          "Transaction": { "N": "-61.17" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "334" },
+          "Date": { "S": "03/28/2023" },
+          "Transaction": { "N": "44.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "335" },
+          "Date": { "S": "03/28/2023" },
+          "Transaction": { "N": "63.98" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "336" },
+          "Date": { "S": "03/28/2023" },
+          "Transaction": { "N": "-74.57" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "337" },
+          "Date": { "S": "03/28/2023" },
+          "Transaction": { "N": "77.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "338" },
+          "Date": { "S": "03/28/2023" },
+          "Transaction": { "N": "21.17" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "339" },
+          "Date": { "S": "03/27/2023" },
+          "Transaction": { "N": "52.80" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "340" },
+          "Date": { "S": "03/26/2023" },
+          "Transaction": { "N": "95.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "341" },
+          "Date": { "S": "03/26/2023" },
+          "Transaction": { "N": "67.62" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "342" },
+          "Date": { "S": "03/26/2023" },
+          "Transaction": { "N": "19.48" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "343" },
+          "Date": { "S": "03/26/2023" },
+          "Transaction": { "N": "47.37" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "344" },
+          "Date": { "S": "03/26/2023" },
+          "Transaction": { "N": "95.28" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "345" },
+          "Date": { "S": "03/26/2023" },
+          "Transaction": { "N": "46.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "346" },
+          "Date": { "S": "03/26/2023" },
+          "Transaction": { "N": "58.50" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "347" },
+          "Date": { "S": "03/26/2023" },
+          "Transaction": { "N": "45.54" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "348" },
+          "Date": { "S": "03/25/2023" },
+          "Transaction": { "N": "-12.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "349" },
+          "Date": { "S": "03/25/2023" },
+          "Transaction": { "N": "14.98" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "350" },
+          "Date": { "S": "03/25/2023" },
+          "Transaction": { "N": "-27.33" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "351" },
+          "Date": { "S": "03/24/2023" },
+          "Transaction": { "N": "92.71" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "352" },
+          "Date": { "S": "03/24/2023" },
+          "Transaction": { "N": "21.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "353" },
+          "Date": { "S": "03/24/2023" },
+          "Transaction": { "N": "33.93" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "354" },
+          "Date": { "S": "03/24/2023" },
+          "Transaction": { "N": "50.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "355" },
+          "Date": { "S": "03/24/2023" },
+          "Transaction": { "N": "-63.52" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "356" },
+          "Date": { "S": "03/24/2023" },
+          "Transaction": { "N": "-34.04" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "357" },
+          "Date": { "S": "03/23/2023" },
+          "Transaction": { "N": "-55.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "358" },
+          "Date": { "S": "03/23/2023" },
+          "Transaction": { "N": "-23.75" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "359" },
+          "Date": { "S": "03/22/2023" },
+          "Transaction": { "N": "48.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "360" },
+          "Date": { "S": "03/22/2023" },
+          "Transaction": { "N": "-87.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "361" },
+          "Date": { "S": "03/22/2023" },
+          "Transaction": { "N": "97.23" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "362" },
+          "Date": { "S": "03/22/2023" },
+          "Transaction": { "N": "-43.84" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "363" },
+          "Date": { "S": "03/22/2023" },
+          "Transaction": { "N": "-94.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "364" },
+          "Date": { "S": "03/22/2023" },
+          "Transaction": { "N": "-26.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "365" },
+          "Date": { "S": "03/21/2023" },
+          "Transaction": { "N": "-53.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "366" },
+          "Date": { "S": "03/21/2023" },
+          "Transaction": { "N": "21.39" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "367" },
+          "Date": { "S": "03/21/2023" },
+          "Transaction": { "N": "32.30" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "368" },
+          "Date": { "S": "03/21/2023" },
+          "Transaction": { "N": "-75.95" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "369" },
+          "Date": { "S": "03/21/2023" },
+          "Transaction": { "N": "-94.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "370" },
+          "Date": { "S": "03/21/2023" },
+          "Transaction": { "N": "35.15" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "371" },
+          "Date": { "S": "03/21/2023" },
+          "Transaction": { "N": "56.74" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "372" },
+          "Date": { "S": "03/20/2023" },
+          "Transaction": { "N": "83.03" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "373" },
+          "Date": { "S": "03/20/2023" },
+          "Transaction": { "N": "-8.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "374" },
+          "Date": { "S": "03/20/2023" },
+          "Transaction": { "N": "86.78" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "375" },
+          "Date": { "S": "03/20/2023" },
+          "Transaction": { "N": "65.91" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "376" },
+          "Date": { "S": "03/20/2023" },
+          "Transaction": { "N": "71.21" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "377" },
+          "Date": { "S": "03/20/2023" },
+          "Transaction": { "N": "-88.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "378" },
+          "Date": { "S": "03/20/2023" },
+          "Transaction": { "N": "-24.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "379" },
+          "Date": { "S": "03/19/2023" },
+          "Transaction": { "N": "-40.72" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "380" },
+          "Date": { "S": "03/19/2023" },
+          "Transaction": { "N": "55.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "381" },
+          "Date": { "S": "03/19/2023" },
+          "Transaction": { "N": "-30.78" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "382" },
+          "Date": { "S": "03/18/2023" },
+          "Transaction": { "N": "-33.22" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "383" },
+          "Date": { "S": "03/18/2023" },
+          "Transaction": { "N": "13.21" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "384" },
+          "Date": { "S": "03/18/2023" },
+          "Transaction": { "N": "7.85" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "385" },
+          "Date": { "S": "03/18/2023" },
+          "Transaction": { "N": "56.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "386" },
+          "Date": { "S": "03/18/2023" },
+          "Transaction": { "N": "-55.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "387" },
+          "Date": { "S": "03/18/2023" },
+          "Transaction": { "N": "-76.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "388" },
+          "Date": { "S": "03/18/2023" },
+          "Transaction": { "N": "26.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "389" },
+          "Date": { "S": "03/17/2023" },
+          "Transaction": { "N": "-11.45" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "390" },
+          "Date": { "S": "03/17/2023" },
+          "Transaction": { "N": "-93.95" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "391" },
+          "Date": { "S": "03/17/2023" },
+          "Transaction": { "N": "-59.54" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "392" },
+          "Date": { "S": "03/17/2023" },
+          "Transaction": { "N": "-14.54" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "393" },
+          "Date": { "S": "03/17/2023" },
+          "Transaction": { "N": "17.52" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "394" },
+          "Date": { "S": "03/17/2023" },
+          "Transaction": { "N": "61.96" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "395" },
+          "Date": { "S": "03/17/2023" },
+          "Transaction": { "N": "-95.29" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "396" },
+          "Date": { "S": "03/17/2023" },
+          "Transaction": { "N": "25.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "397" },
+          "Date": { "S": "03/16/2023" },
+          "Transaction": { "N": "-18.07" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "398" },
+          "Date": { "S": "03/16/2023" },
+          "Transaction": { "N": "-68.51" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "399" },
+          "Date": { "S": "03/16/2023" },
+          "Transaction": { "N": "-73.97" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "400" },
+          "Date": { "S": "03/16/2023" },
+          "Transaction": { "N": "-40.03" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "401" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "-4.90" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "402" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "11.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "403" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "28.87" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "404" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "-58.68" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "405" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "-22.03" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "406" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "72.23" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "407" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "-12.86" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "408" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "-47.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "409" },
+          "Date": { "S": "03/15/2023" },
+          "Transaction": { "N": "85.46" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "410" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "-7.25" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "411" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "31.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "412" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "75.08" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "413" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "20.92" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "414" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "3.82" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "415" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "92.93" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "416" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "-71.75" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "417" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "-80.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "418" },
+          "Date": { "S": "03/14/2023" },
+          "Transaction": { "N": "85.21" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "419" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "82.09" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "420" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "65.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "421" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "-37.69" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "422" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "-0.56" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "423" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "12.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "424" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "-15.85" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "425" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "83.99" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "426" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "88.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "427" },
+          "Date": { "S": "03/13/2023" },
+          "Transaction": { "N": "13.17" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "428" },
+          "Date": { "S": "03/12/2023" },
+          "Transaction": { "N": "-63.05" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "429" },
+          "Date": { "S": "03/12/2023" },
+          "Transaction": { "N": "6.09" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "430" },
+          "Date": { "S": "03/11/2023" },
+          "Transaction": { "N": "-63.88" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "431" },
+          "Date": { "S": "03/11/2023" },
+          "Transaction": { "N": "-56.09" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "432" },
+          "Date": { "S": "03/10/2023" },
+          "Transaction": { "N": "5.88" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "433" },
+          "Date": { "S": "03/10/2023" },
+          "Transaction": { "N": "48.72" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "434" },
+          "Date": { "S": "03/10/2023" },
+          "Transaction": { "N": "69.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "435" },
+          "Date": { "S": "03/10/2023" },
+          "Transaction": { "N": "-66.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "436" },
+          "Date": { "S": "03/10/2023" },
+          "Transaction": { "N": "-16.00" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "437" },
+          "Date": { "S": "03/10/2023" },
+          "Transaction": { "N": "7.85" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "438" },
+          "Date": { "S": "03/10/2023" },
+          "Transaction": { "N": "44.88" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "439" },
+          "Date": { "S": "03/08/2023" },
+          "Transaction": { "N": "-17.48" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "440" },
+          "Date": { "S": "03/08/2023" },
+          "Transaction": { "N": "-14.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "441" },
+          "Date": { "S": "03/07/2023" },
+          "Transaction": { "N": "-79.82" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "442" },
+          "Date": { "S": "03/07/2023" },
+          "Transaction": { "N": "78.82" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "443" },
+          "Date": { "S": "03/06/2023" },
+          "Transaction": { "N": "-67.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "444" },
+          "Date": { "S": "03/05/2023" },
+          "Transaction": { "N": "62.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "445" },
+          "Date": { "S": "03/05/2023" },
+          "Transaction": { "N": "-98.61" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "446" },
+          "Date": { "S": "03/05/2023" },
+          "Transaction": { "N": "61.55" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "447" },
+          "Date": { "S": "03/05/2023" },
+          "Transaction": { "N": "22.99" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "448" },
+          "Date": { "S": "03/05/2023" },
+          "Transaction": { "N": "-85.69" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "449" },
+          "Date": { "S": "03/05/2023" },
+          "Transaction": { "N": "-80.85" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "450" },
+          "Date": { "S": "03/05/2023" },
+          "Transaction": { "N": "37.78" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "451" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "-11.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "452" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "64.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "453" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "-64.45" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "454" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "-89.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "455" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "-96.38" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "456" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "43.03" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "457" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "-21.90" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "458" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "-42.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "459" },
+          "Date": { "S": "03/04/2023" },
+          "Transaction": { "N": "20.39" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "460" },
+          "Date": { "S": "03/03/2023" },
+          "Transaction": { "N": "-66.00" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "461" },
+          "Date": { "S": "03/03/2023" },
+          "Transaction": { "N": "77.89" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "462" },
+          "Date": { "S": "03/03/2023" },
+          "Transaction": { "N": "-30.46" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "463" },
+          "Date": { "S": "03/02/2023" },
+          "Transaction": { "N": "-23.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "464" },
+          "Date": { "S": "03/02/2023" },
+          "Transaction": { "N": "-91.84" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "465" },
+          "Date": { "S": "03/01/2023" },
+          "Transaction": { "N": "22.84" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "466" },
+          "Date": { "S": "03/01/2023" },
+          "Transaction": { "N": "41.95" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "467" },
+          "Date": { "S": "02/28/2023" },
+          "Transaction": { "N": "94.92" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "468" },
+          "Date": { "S": "02/28/2023" },
+          "Transaction": { "N": "66.94" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "469" },
+          "Date": { "S": "02/28/2023" },
+          "Transaction": { "N": "-32.08" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "470" },
+          "Date": { "S": "02/28/2023" },
+          "Transaction": { "N": "19.77" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "471" },
+          "Date": { "S": "02/28/2023" },
+          "Transaction": { "N": "75.83" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "472" },
+          "Date": { "S": "02/28/2023" },
+          "Transaction": { "N": "70.22" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "473" },
+          "Date": { "S": "02/28/2023" },
+          "Transaction": { "N": "-5.58" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "474" },
+          "Date": { "S": "02/28/2023" },
+          "Transaction": { "N": "-63.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "475" },
+          "Date": { "S": "02/25/2023" },
+          "Transaction": { "N": "4.88" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "476" },
+          "Date": { "S": "02/25/2023" },
+          "Transaction": { "N": "-39.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "477" },
+          "Date": { "S": "02/25/2023" },
+          "Transaction": { "N": "67.98" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "478" },
+          "Date": { "S": "02/25/2023" },
+          "Transaction": { "N": "45.07" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "479" },
+          "Date": { "S": "02/25/2023" },
+          "Transaction": { "N": "-22.98" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "480" },
+          "Date": { "S": "02/25/2023" },
+          "Transaction": { "N": "23.90" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "481" },
+          "Date": { "S": "02/25/2023" },
+          "Transaction": { "N": "-66.21" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "482" },
+          "Date": { "S": "02/25/2023" },
+          "Transaction": { "N": "58.49" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "483" },
+          "Date": { "S": "02/24/2023" },
+          "Transaction": { "N": "-54.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "484" },
+          "Date": { "S": "02/23/2023" },
+          "Transaction": { "N": "16.22" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "485" },
+          "Date": { "S": "02/23/2023" },
+          "Transaction": { "N": "-36.07" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "486" },
+          "Date": { "S": "02/23/2023" },
+          "Transaction": { "N": "-39.99" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "487" },
+          "Date": { "S": "02/23/2023" },
+          "Transaction": { "N": "5.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "488" },
+          "Date": { "S": "02/23/2023" },
+          "Transaction": { "N": "75.89" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "489" },
+          "Date": { "S": "02/23/2023" },
+          "Transaction": { "N": "86.49" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "490" },
+          "Date": { "S": "02/22/2023" },
+          "Transaction": { "N": "-1.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "491" },
+          "Date": { "S": "02/22/2023" },
+          "Transaction": { "N": "-10.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "492" },
+          "Date": { "S": "02/22/2023" },
+          "Transaction": { "N": "-66.18" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "493" },
+          "Date": { "S": "02/22/2023" },
+          "Transaction": { "N": "40.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "494" },
+          "Date": { "S": "02/22/2023" },
+          "Transaction": { "N": "-37.23" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "495" },
+          "Date": { "S": "02/22/2023" },
+          "Transaction": { "N": "67.41" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "496" },
+          "Date": { "S": "02/21/2023" },
+          "Transaction": { "N": "-12.77" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "497" },
+          "Date": { "S": "02/20/2023" },
+          "Transaction": { "N": "20.22" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "498" },
+          "Date": { "S": "02/20/2023" },
+          "Transaction": { "N": "-19.20" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "499" },
+          "Date": { "S": "02/20/2023" },
+          "Transaction": { "N": "45.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "500" },
+          "Date": { "S": "02/20/2023" },
+          "Transaction": { "N": "40.51" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "501" },
+          "Date": { "S": "02/20/2023" },
+          "Transaction": { "N": "51.00" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "502" },
+          "Date": { "S": "02/19/2023" },
+          "Transaction": { "N": "43.97" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "503" },
+          "Date": { "S": "02/19/2023" },
+          "Transaction": { "N": "16.54" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "504" },
+          "Date": { "S": "02/19/2023" },
+          "Transaction": { "N": "-88.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "505" },
+          "Date": { "S": "02/19/2023" },
+          "Transaction": { "N": "-50.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "506" },
+          "Date": { "S": "02/19/2023" },
+          "Transaction": { "N": "-31.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "507" },
+          "Date": { "S": "02/19/2023" },
+          "Transaction": { "N": "-18.52" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "508" },
+          "Date": { "S": "02/18/2023" },
+          "Transaction": { "N": "-85.88" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "509" },
+          "Date": { "S": "02/18/2023" },
+          "Transaction": { "N": "58.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "510" },
+          "Date": { "S": "02/18/2023" },
+          "Transaction": { "N": "-32.94" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "511" },
+          "Date": { "S": "02/18/2023" },
+          "Transaction": { "N": "-83.73" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "512" },
+          "Date": { "S": "02/17/2023" },
+          "Transaction": { "N": "-34.75" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "513" },
+          "Date": { "S": "02/17/2023" },
+          "Transaction": { "N": "-11.18" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "514" },
+          "Date": { "S": "02/17/2023" },
+          "Transaction": { "N": "32.07" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "515" },
+          "Date": { "S": "02/17/2023" },
+          "Transaction": { "N": "-65.29" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "516" },
+          "Date": { "S": "02/17/2023" },
+          "Transaction": { "N": "-79.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "517" },
+          "Date": { "S": "02/16/2023" },
+          "Transaction": { "N": "-65.74" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "518" },
+          "Date": { "S": "02/16/2023" },
+          "Transaction": { "N": "-87.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "519" },
+          "Date": { "S": "02/16/2023" },
+          "Transaction": { "N": "97.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "520" },
+          "Date": { "S": "02/16/2023" },
+          "Transaction": { "N": "51.92" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "521" },
+          "Date": { "S": "02/16/2023" },
+          "Transaction": { "N": "-58.48" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "522" },
+          "Date": { "S": "02/15/2023" },
+          "Transaction": { "N": "5.11" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "523" },
+          "Date": { "S": "02/15/2023" },
+          "Transaction": { "N": "35.15" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "524" },
+          "Date": { "S": "02/15/2023" },
+          "Transaction": { "N": "32.51" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "525" },
+          "Date": { "S": "02/15/2023" },
+          "Transaction": { "N": "80.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "526" },
+          "Date": { "S": "02/15/2023" },
+          "Transaction": { "N": "6.50" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "527" },
+          "Date": { "S": "02/15/2023" },
+          "Transaction": { "N": "-99.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "528" },
+          "Date": { "S": "02/14/2023" },
+          "Transaction": { "N": "-50.33" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "529" },
+          "Date": { "S": "02/13/2023" },
+          "Transaction": { "N": "-72.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "530" },
+          "Date": { "S": "02/13/2023" },
+          "Transaction": { "N": "55.39" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "531" },
+          "Date": { "S": "02/12/2023" },
+          "Transaction": { "N": "30.49" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "532" },
+          "Date": { "S": "02/12/2023" },
+          "Transaction": { "N": "57.42" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "533" },
+          "Date": { "S": "02/12/2023" },
+          "Transaction": { "N": "93.38" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "534" },
+          "Date": { "S": "02/12/2023" },
+          "Transaction": { "N": "-8.94" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "535" },
+          "Date": { "S": "02/12/2023" },
+          "Transaction": { "N": "57.32" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "536" },
+          "Date": { "S": "02/12/2023" },
+          "Transaction": { "N": "13.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "537" },
+          "Date": { "S": "02/12/2023" },
+          "Transaction": { "N": "36.78" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "538" },
+          "Date": { "S": "02/10/2023" },
+          "Transaction": { "N": "-12.28" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "539" },
+          "Date": { "S": "02/10/2023" },
+          "Transaction": { "N": "22.72" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "540" },
+          "Date": { "S": "02/10/2023" },
+          "Transaction": { "N": "-67.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "541" },
+          "Date": { "S": "02/10/2023" },
+          "Transaction": { "N": "-1.91" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "542" },
+          "Date": { "S": "02/10/2023" },
+          "Transaction": { "N": "-97.64" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "543" },
+          "Date": { "S": "02/10/2023" },
+          "Transaction": { "N": "65.56" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "544" },
+          "Date": { "S": "02/09/2023" },
+          "Transaction": { "N": "-24.51" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "545" },
+          "Date": { "S": "02/09/2023" },
+          "Transaction": { "N": "46.79" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "546" },
+          "Date": { "S": "02/09/2023" },
+          "Transaction": { "N": "87.02" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "547" },
+          "Date": { "S": "02/09/2023" },
+          "Transaction": { "N": "-44.52" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "548" },
+          "Date": { "S": "02/08/2023" },
+          "Transaction": { "N": "45.31" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "549" },
+          "Date": { "S": "02/08/2023" },
+          "Transaction": { "N": "41.23" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "550" },
+          "Date": { "S": "02/07/2023" },
+          "Transaction": { "N": "-10.95" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "551" },
+          "Date": { "S": "02/06/2023" },
+          "Transaction": { "N": "-7.33" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "552" },
+          "Date": { "S": "02/05/2023" },
+          "Transaction": { "N": "-33.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "553" },
+          "Date": { "S": "02/05/2023" },
+          "Transaction": { "N": "22.55" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "554" },
+          "Date": { "S": "02/05/2023" },
+          "Transaction": { "N": "-67.25" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "555" },
+          "Date": { "S": "02/05/2023" },
+          "Transaction": { "N": "-91.56" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "556" },
+          "Date": { "S": "02/05/2023" },
+          "Transaction": { "N": "-1.50" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "557" },
+          "Date": { "S": "02/04/2023" },
+          "Transaction": { "N": "-84.47" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "558" },
+          "Date": { "S": "02/04/2023" },
+          "Transaction": { "N": "-25.35" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "559" },
+          "Date": { "S": "02/04/2023" },
+          "Transaction": { "N": "99.11" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "560" },
+          "Date": { "S": "02/04/2023" },
+          "Transaction": { "N": "-23.21" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "561" },
+          "Date": { "S": "02/04/2023" },
+          "Transaction": { "N": "10.30" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "562" },
+          "Date": { "S": "02/04/2023" },
+          "Transaction": { "N": "89.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "563" },
+          "Date": { "S": "02/03/2023" },
+          "Transaction": { "N": "50.58" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "564" },
+          "Date": { "S": "02/02/2023" },
+          "Transaction": { "N": "-69.49" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "565" },
+          "Date": { "S": "02/02/2023" },
+          "Transaction": { "N": "-17.37" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "566" },
+          "Date": { "S": "02/01/2023" },
+          "Transaction": { "N": "-95.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "567" },
+          "Date": { "S": "02/01/2023" },
+          "Transaction": { "N": "16.98" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "568" },
+          "Date": { "S": "02/01/2023" },
+          "Transaction": { "N": "-24.37" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "569" },
+          "Date": { "S": "02/01/2023" },
+          "Transaction": { "N": "3.85" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "570" },
+          "Date": { "S": "02/01/2023" },
+          "Transaction": { "N": "-63.56" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "571" },
+          "Date": { "S": "01/31/2023" },
+          "Transaction": { "N": "72.47" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "572" },
+          "Date": { "S": "01/31/2023" },
+          "Transaction": { "N": "-27.69" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "573" },
+          "Date": { "S": "01/30/2023" },
+          "Transaction": { "N": "-32.89" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "574" },
+          "Date": { "S": "01/30/2023" },
+          "Transaction": { "N": "36.51" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "575" },
+          "Date": { "S": "01/30/2023" },
+          "Transaction": { "N": "-33.51" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "576" },
+          "Date": { "S": "01/30/2023" },
+          "Transaction": { "N": "44.32" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "577" },
+          "Date": { "S": "01/30/2023" },
+          "Transaction": { "N": "-79.58" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "578" },
+          "Date": { "S": "01/30/2023" },
+          "Transaction": { "N": "21.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "579" },
+          "Date": { "S": "01/30/2023" },
+          "Transaction": { "N": "14.45" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "580" },
+          "Date": { "S": "01/30/2023" },
+          "Transaction": { "N": "51.93" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "581" },
+          "Date": { "S": "01/28/2023" },
+          "Transaction": { "N": "62.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "582" },
+          "Date": { "S": "01/28/2023" },
+          "Transaction": { "N": "-15.44" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "583" },
+          "Date": { "S": "01/28/2023" },
+          "Transaction": { "N": "76.43" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "584" },
+          "Date": { "S": "01/28/2023" },
+          "Transaction": { "N": "-92.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "585" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "40.77" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "586" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "-13.16" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "587" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "-84.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "588" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "-65.99" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "589" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "29.71" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "590" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "-30.68" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "591" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "-43.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "592" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "-7.63" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "593" },
+          "Date": { "S": "01/27/2023" },
+          "Transaction": { "N": "99.27" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "594" },
+          "Date": { "S": "01/25/2023" },
+          "Transaction": { "N": "2.28" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "595" },
+          "Date": { "S": "01/25/2023" },
+          "Transaction": { "N": "-0.38" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "596" },
+          "Date": { "S": "01/25/2023" },
+          "Transaction": { "N": "-65.25" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "597" },
+          "Date": { "S": "01/25/2023" },
+          "Transaction": { "N": "65.26" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "598" },
+          "Date": { "S": "01/25/2023" },
+          "Transaction": { "N": "5.98" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "599" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "35.87" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "600" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "53.50" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "601" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "-0.82" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "602" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "-98.67" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "603" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "49.41" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "604" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "73.18" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "605" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "1.34" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "606" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "91.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "607" },
+          "Date": { "S": "01/24/2023" },
+          "Transaction": { "N": "8.91" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "608" },
+          "Date": { "S": "01/23/2023" },
+          "Transaction": { "N": "30.27" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "609" },
+          "Date": { "S": "01/23/2023" },
+          "Transaction": { "N": "19.69" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "610" },
+          "Date": { "S": "01/23/2023" },
+          "Transaction": { "N": "82.37" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "611" },
+          "Date": { "S": "01/22/2023" },
+          "Transaction": { "N": "-68.12" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "612" },
+          "Date": { "S": "01/22/2023" },
+          "Transaction": { "N": "-2.28" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "613" },
+          "Date": { "S": "01/22/2023" },
+          "Transaction": { "N": "4.24" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "614" },
+          "Date": { "S": "01/21/2023" },
+          "Transaction": { "N": "88.04" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "615" },
+          "Date": { "S": "01/21/2023" },
+          "Transaction": { "N": "59.01" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "616" },
+          "Date": { "S": "01/21/2023" },
+          "Transaction": { "N": "-92.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "617" },
+          "Date": { "S": "01/21/2023" },
+          "Transaction": { "N": "-95.83" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "618" },
+          "Date": { "S": "01/21/2023" },
+          "Transaction": { "N": "61.08" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "619" },
+          "Date": { "S": "01/21/2023" },
+          "Transaction": { "N": "-89.59" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "620" },
+          "Date": { "S": "01/21/2023" },
+          "Transaction": { "N": "69.37" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "621" },
+          "Date": { "S": "01/21/2023" },
+          "Transaction": { "N": "59.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "622" },
+          "Date": { "S": "01/20/2023" },
+          "Transaction": { "N": "-63.55" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "623" },
+          "Date": { "S": "01/20/2023" },
+          "Transaction": { "N": "-58.57" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "624" },
+          "Date": { "S": "01/20/2023" },
+          "Transaction": { "N": "-41.13" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "625" },
+          "Date": { "S": "01/20/2023" },
+          "Transaction": { "N": "82.63" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "626" },
+          "Date": { "S": "01/20/2023" },
+          "Transaction": { "N": "-58.66" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "627" },
+          "Date": { "S": "01/19/2023" },
+          "Transaction": { "N": "-11.78" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "628" },
+          "Date": { "S": "01/19/2023" },
+          "Transaction": { "N": "-28.11" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "629" },
+          "Date": { "S": "01/19/2023" },
+          "Transaction": { "N": "23.15" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "630" },
+          "Date": { "S": "01/19/2023" },
+          "Transaction": { "N": "-20.55" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "631" },
+          "Date": { "S": "01/19/2023" },
+          "Transaction": { "N": "98.76" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "632" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "88.33" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "633" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "-96.19" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "634" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "79.60" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "635" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "-26.29" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "636" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "-33.38" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "637" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "-41.14" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "638" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "72.50" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "639" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "77.28" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "640" },
+          "Date": { "S": "01/18/2023" },
+          "Transaction": { "N": "-55.36" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "641" },
+          "Date": { "S": "01/17/2023" },
+          "Transaction": { "N": "-57.17" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "642" },
+          "Date": { "S": "01/17/2023" },
+          "Transaction": { "N": "0.46" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "643" },
+          "Date": { "S": "01/17/2023" },
+          "Transaction": { "N": "37.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "644" },
+          "Date": { "S": "01/16/2023" },
+          "Transaction": { "N": "17.50" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "645" },
+          "Date": { "S": "01/16/2023" },
+          "Transaction": { "N": "-5.39" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "646" },
+          "Date": { "S": "01/16/2023" },
+          "Transaction": { "N": "-89.52" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "647" },
+          "Date": { "S": "01/16/2023" },
+          "Transaction": { "N": "-83.85" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "648" },
+          "Date": { "S": "01/16/2023" },
+          "Transaction": { "N": "-29.72" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "649" },
+          "Date": { "S": "01/16/2023" },
+          "Transaction": { "N": "-47.98" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "650" },
+          "Date": { "S": "01/16/2023" },
+          "Transaction": { "N": "-44.70" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Id": { "N": "651" },
+          "Date": { "S": "01/16/2023" },
+          "Transaction": { "N": "23.73" }
+        }
+      }
+    }
+  ]
+}

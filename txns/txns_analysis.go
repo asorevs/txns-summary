@@ -1,11 +1,8 @@
 package txns
 
 import (
-	"encoding/csv"
 	"fmt"
-	"os"
 	"sort"
-	"strconv"
 	"strings"
 	"time"
 )
@@ -19,14 +16,14 @@ type MonthTxns struct {
 // Summarizes transactions and returns: totalBalance, averageCreditAmount, averageDebitAmount and transactionData by month
 func AnalyseTxns() (float64, float64, float64, []MonthTxns) {
 	// Read the transactions from the CSV file
-	transactions, err := readTxnsFromFile("txns.csv")
+	transactions, err := getTransactionsFromDB()
 	if err != nil {
 		fmt.Println("Error reading transactions:", err)
 		return 0, 0, 0, nil
 	}
 
 	// Calculate the total balance
-	totalBalance := calculateTotalBalance(transactions)
+	totalBalance := CalculateTotalBalance(transactions)
 	fmt.Printf("Total balance is: %.2f\n", totalBalance)
 
 	// Calculate the average debit and credit amounts
@@ -47,40 +44,8 @@ func AnalyseTxns() (float64, float64, float64, []MonthTxns) {
 	return totalBalance, averageCreditAmount, averageDebitAmount, transactionsByMonth
 }
 
-// Reads the transactions from the specified CSV file.
-func readTxnsFromFile(filename string) ([]Transaction, error) {
-	file, err := os.Open(filename)
-	if err != nil {
-		return nil, err
-	}
-	defer file.Close()
-
-	reader := csv.NewReader(file)
-	reader.FieldsPerRecord = 3
-
-	records, err := reader.ReadAll()
-	if err != nil {
-		return nil, err
-	}
-
-	var transactions []Transaction
-	for _, record := range records[1:] {
-		id, _ := strconv.Atoi(record[0])
-		date, _ := time.Parse("01/02/2006", record[1])
-		transaction, _ := strconv.ParseFloat(record[2], 64)
-
-		transactions = append(transactions, Transaction{
-			ID:          id,
-			Date:        date,
-			Transaction: transaction,
-		})
-	}
-
-	return transactions, nil
-}
-
 // Calculates the total balance from the given transactions.
-func calculateTotalBalance(transactions []Transaction) float64 {
+func CalculateTotalBalance(transactions []Transaction) float64 {
 	totalBalance := 0.0
 	for _, txn := range transactions {
 		totalBalance += txn.Transaction
