@@ -29,14 +29,14 @@ The microservice utilizes the following technologies:
 
 ## Prerequisites
 
-Before running the Amaranth application, make sure you have the following prerequisites installed:
+Before running the txns_summary application, make sure you have the following prerequisites installed:
 
 - Docker
 - Go (at least version 1.19)
 
 ## Getting Started
 
-To get started with Amaranth, follow these steps:
+To get started with txns_summary, follow these steps:
 
 1. Clone the repository:
 
